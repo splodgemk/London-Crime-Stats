@@ -1,8 +1,8 @@
+Day 2 of uploading a machine learning project until I find a data job.
+
 Data source: 
-https://data.police.uk/data/
+ https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data
 
 Models objective:
-The main aim of this model is mostly as a portfolio piece to show an understanding of Kmeans clustering but in a way that is 
-different to everyone else segmenting customer data.
-
-The model shows the centroids of crimes in London based upon the "Crime type" column of the database.
+The main purpose of this model is as a portfolio piece for regression models, both linear and non-linear using Linear Regression and
+Random Forest Regressors. The specific task was prediciting the USD sales of a store based upon store stats.
